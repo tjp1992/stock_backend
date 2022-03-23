@@ -1,10 +1,12 @@
 # Data analysis
-- Document here the project: stock_backend
-- Description: Project Description
-- Data Source:
+- Document here the project: 
+  stock_backend
+- Description: 
+  Project Description
+- Data Source: 
+  API Call Via [yfinance](https://pypi.org/project/yfinance/) (Open-Source Tool that access [yahoo finance API](https://python-yahoofinance.readthedocs.io/en/latest/api.html))
 - Type of analysis:
-
-Please document the project the better you can.
+  
 
 # Startup the project
 
@@ -72,3 +74,10 @@ mkdir tmp
 cd tmp
 stock_backend-run
 ```
+
+# References
+
+- [Fear and Greed Index](https://www.liberatedstocktrader.com/fear-and-greed-index/) (Reference only)
+  **Following Resource is used as a reference for buy and selling of stock**
+- [An NLP and LSTM Based Stock Prediction and Recommender System for KOSDAQ and KOSPI](https://www.researchgate.net/publication/349071337_An_NLP_and_LSTM_Based_Stock_Prediction_and_Recommender_System_for_KOSDAQ_and_KOSPI)
+- [KRX](https://global.krx.co.kr/contents/GLB/03/0308/0308010000/GLB0308010000.jsp)

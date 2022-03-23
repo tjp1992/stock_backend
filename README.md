@@ -49,7 +49,7 @@ stock_backend-run
 # Install
 
 Go to `https://github.com/{group}/stock_backend` to see the project, manage issues,
-setup you ssh public key, ...
+setup you SSH public key, ...
 
 Create a python3 virtualenv and activate it:
 
@@ -66,7 +66,7 @@ cd stock_backend
 pip install -r requirements.txt
 make clean install test                # install and test
 ```
-Functionnal test with a script:
+Functional test with a script:
 
 ```bash
 cd

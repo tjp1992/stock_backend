@@ -1,10 +1,17 @@
 # Data analysis
 - Document here the project: 
   stock_backend
+  
 - Description: 
   Project Description
+  
 - Data Source: 
-  API Call Via [yfinance](https://pypi.org/project/yfinance/) (Open-Source Tool that access [yahoo finance API](https://python-yahoofinance.readthedocs.io/en/latest/api.html))
+  ~~API Call Via [yfinance](https://pypi.org/project/yfinance/) (Open-Source Tool that access [yahoo finance API](https://python-yahoofinance.readthedocs.io/en/latest/api.html))~~
+  
+  Web Crawl on [KRX](https://global.krx.co.kr/contents/GLB/03/0308/0308010000/GLB0308010000.jsp), for stock codes
+  
+  API Call Via [iexcloud](https://iexcloud.io/docs/api/) for Daily Data for the model
+  
 - Type of analysis:
   
 
